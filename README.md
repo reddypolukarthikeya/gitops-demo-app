@@ -34,11 +34,11 @@ This repository is the trigger for the entire GitOps loop. Here is what happens 
 
 ### The Running Application
 *Evidence that the pipeline successfully deployed the latest version (v3).*
-![Running App](assets1/running-app-v3.png)
+![Running App](assets/running-app-v3.png)
 
 ### The Deployment Topology (ArgoCD)
 *Visualizing the Kubernetes resources (Ingress, Service, Pods) managed by GitOps.*
-![ArgoCD Topology](assets1/argocd-topology.png)
+![ArgoCD Topology](assets/argocd-topology.png)
 
 ---
 
